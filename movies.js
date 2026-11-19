@@ -891,6 +891,22 @@ const fumihirano              = "https://tse1.mm.bing.net/th?q=Fumi+Hirano+voice
 // A Whisker Away
 const miraishida              = "https://tse1.mm.bing.net/th?q=Mira+Shida+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const koichiyamadera          = "https://tse1.mm.bing.net/th?q=Koichi+Yamadera+voice+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+// Jailer 2
+const rajinikanth             = "https://tse1.mm.bing.net/th?q=Rajinikanth+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const mohanlal                = "https://tse1.mm.bing.net/th?q=Mohanlal+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const shivarajkumar           = "https://tse1.mm.bing.net/th?q=Shiva+Rajkumar+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const ramyakrishnan           = "https://tse1.mm.bing.net/th?q=Ramya+Krishnan+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const yogibabu                = "https://tse1.mm.bing.net/th?q=Yogi+Babu+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const sjsuryah                = "https://tse1.mm.bing.net/th?q=SJ+Suryah+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const vidyabalan              = "https://tse1.mm.bing.net/th?q=Vidya+Balan+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const mithunchakraborty       = "https://tse1.mm.bing.net/th?q=Mithun+Chakraborty+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Obsession
+const michaeljohnston         = "https://tse1.mm.bing.net/th?q=Michael+Johnston+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const indenavarrette          = "https://tse1.mm.bing.net/th?q=Inde+Navarrette+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const coopertomlinson         = "https://tse1.mm.bing.net/th?q=Cooper+Tomlinson+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const meganlawless            = "https://tse1.mm.bing.net/th?q=Megan+Lawless+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
 
 const movies = {
 
@@ -5778,8 +5794,8 @@ manchesterbythesea: {
     reviewsBackground: "linear-gradient(180deg, #16202a 0%, #243442 60%, #3a2a2c 100%)"
   },
 
-  hero: "manchester_by_the_sea.jpg",
-  poster: "manchester_by_the_sea_poster.jpg",
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083916/807326_ovbinn.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083918/Manchester_by_the_Sea_wonkqr.jpg",
 
 
 trailers: [
@@ -5830,8 +5846,8 @@ thegrayman: {
     reviewsBackground: "linear-gradient(180deg, #0c1c2e 0%, #1a3a52 60%, #6a3014 100%)"
   },
 
-  hero: "the_gray_man.jpg",
-  poster: "the_gray_man_poster.jpg",
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795082829/3782603_kftctw.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795082830/The_gray_man_2022_-_Joe_Russo_Anthony_Russo_1_zrmhqy.jpg",
 
  
 trailers: [
@@ -5890,8 +5906,8 @@ tenet: {
     reviewsBackground: "linear-gradient(180deg, #101e26 0%, #1c3440 60%, #4a2a24 100%)"
   },
 
-  hero: "tenet.jpg",
-  poster: "tenet_poster.jpg",
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083614/1106852_jdqwcb.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083616/Tenet_movie_poster_2020_onep6g.jpg",
 
 
 trailers: [
@@ -6009,8 +6025,8 @@ dontlookup: {
     reviewsBackground: "linear-gradient(180deg, #0e1650 0%, #28205e 60%, #6a2420 100%)"
   },
 
-  hero: "dont_look_up.jpg",
-  poster: "dont_look_up_poster.jpg",
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795022385/Neon_Mystery_Ensemble_Pointing_Skyward_mqqocs.png",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795022408/Don_t_Look_Up_movie_poster_Leonardo_Dicaprio_Jennifer_Lawrence_Ad_l6kpjo.jpg",
 
 
 trailers: [
@@ -6681,8 +6697,8 @@ awhiskeraway: {
     reviewsBackground: "linear-gradient(180deg, #1c1838 0%, #3c2c58 55%, #6a3a40 100%)"
   },
 
-  hero: "a_whisker_away.jpg",
-  poster: "a_whisker_away_poster.jpg",
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083776/1088270_1_a2nnfg.png",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083760/a_whisker_away_thjoqg.jpg",
 
 
 trailers: [
@@ -6699,5 +6715,130 @@ trailers: [
     { name: "Natsuki Hanae",   role: "Kento Hinode (voice)",       img: natsukihanae },
     { name: "Koichi Yamadera", role: "Mask Seller (voice)",        img: koichiyamadera }
   ]
-}
+},
+
+jailer2: {
+  title: "Jailer 2",
+  director: "Nelson Dilipkumar",
+  genres: ["Action", "Comedy", "Crime"],
+  pills: ["2026", "2H 45M", "IMDb —", "U/A 16+"],
+  overview:
+    "Retired jailer Muthuvel Pandian, known as Tiger, returns as a new threat rises and his past comes back to find him. The makers have kept the story under wraps.",
+  language: "Dual Audio (Tamil, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "",
+
+  accent: "224, 130, 40",
+  theme: {
+    buttonColor: "#e0822a",
+    buttonGlow: "rgba(238, 142, 50, 0.55)",
+    lineColor: "#d8b070",
+    backHover: "#e0822a",
+    castHover: "#d8b070",
+    cardHover: "#d8b070",
+    playHover: "#f09a40",
+    cautionColor: "#ecd0a0",
+    textColor: "#f6eee2",
+    castRoleColor: "#a8967e",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(14, 8, 4, 0.95) 0%, rgba(14, 8, 4, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(224, 130, 40, 0.24) 0%, transparent 55%), linear-gradient(160deg, #4a2a14 0%, #0c0704 100%)",
+    castBackground: "linear-gradient(180deg, #0c0704 0%, #281608 100%)",
+    reviewsBackground: "linear-gradient(180deg, #281608 0%, #4a2a12 55%, #6a2a18 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795083178/Stern_Hero_with_Rifle_h5u30l.png",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795082254/jailer_2_art_lnk8ys.jpg",
+
+
+trailers: [
+  {
+    id: "aaNq2NL6D4A",
+    alt: "Official Announcement Teaser",
+    thumb: "https://img.youtube.com/vi/aaNq2NL6D4A/hqdefault.jpg"
+  },
+  {
+    id: "FW_PPcr1sPE",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/FW_PPcr1sPE/hqdefault.jpg"
+  },
+  {
+    id: "_dh5NnqbkGs",
+    alt: "Rajinikanth and Hrithik Roshan - Movie Clip",
+    thumb: "https://img.youtube.com/vi/_dh5NnqbkGs/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Rajinikanth",       role: "Muthuvel Pandian (Tiger)", img: rajinikanth },
+    { name: "Mohanlal",          role: "Mathew (guest)",           img: mohanlal },
+    { name: "Shiva Rajkumar",    role: "Narasimha (guest)",        img: shivarajkumar },
+    { name: "Ramya Krishnan",    role: "Cast",                     img: ramyakrishnan },
+    { name: "Yogi Babu",         role: "Cast",                     img: yogibabu },
+    { name: "S. J. Suryah",      role: "Cast",                     img: sjsuryah },
+    { name: "Vidya Balan",       role: "Cast",                     img: vidyabalan },
+    { name: "Mithun Chakraborty", role: "Cast",                    img: mithunchakraborty }
+  ]
+},
+
+obsession: {
+  title: "Obsession",
+  director: "Curry Barker",
+  genres: ["Horror", "Thriller"],
+  pills: ["2026", "—", "IMDb 7.8", "R"],
+  overview:
+    "Bear, a socially awkward young man, uses a magical \"One Wish Willow\" to make his childhood friend Nikki fall for him. But his reality begins to unravel as Nikki's behavior turns increasingly frightening.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "",
+
+  accent: "214, 60, 70",
+  theme: {
+    buttonColor: "#d63a48",
+    buttonGlow: "rgba(228, 62, 76, 0.55)",
+    lineColor: "#3a8ee0",
+    backHover: "#d63a48",
+    castHover: "#3a8ee0",
+    cardHover: "#3a8ee0",
+    playHover: "#f04c5c",
+    cautionColor: "#f0a8a8",
+    textColor: "#f4eaea",
+    castRoleColor: "#a89090",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(14, 6, 6, 0.95) 0%, rgba(14, 6, 6, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(58, 142, 224, 0.2) 0%, transparent 55%), linear-gradient(160deg, #3a1a18 0%, #0c0505 100%)",
+    castBackground: "linear-gradient(180deg, #0c0505 0%, #241010 100%)",
+    reviewsBackground: "linear-gradient(180deg, #241010 0%, #4a1c1c 60%, #1a2a4a 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795082257/57863151_mfhuu6.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795082263/Obsession_poster_jipuek.jpg",
+
+
+trailers: [
+  {
+    id: "0G5CjgPw1x4",
+    alt: "Official Teaser Trailer",
+    thumb: "https://img.youtube.com/vi/0G5CjgPw1x4/hqdefault.jpg"
+  },
+  {
+    id: "ojHqFxMI6XQ",
+    alt: "Official Teaser Trailer 2",
+    thumb: "https://img.youtube.com/vi/ojHqFxMI6XQ/hqdefault.jpg"
+  },
+  {
+    id: "UWVznyWUS-E",
+    alt: "Nice Date - Official Movie Clip",
+    thumb: "https://img.youtube.com/vi/UWVznyWUS-E/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Michael Johnston", role: "Bear",  img: michaeljohnston },
+    { name: "Inde Navarrette",  role: "Nikki", img: indenavarrette },
+    { name: "Cooper Tomlinson", role: "Ian",   img: coopertomlinson },
+    { name: "Megan Lawless",    role: "Sarah", img: meganlawless }
+  ]
+},
 };
