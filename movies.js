@@ -851,7 +851,7 @@ const gemmachan               = "https://tse1.mm.bing.net/th?q=Gemma+Chan+actres
 const karenfukuhara           = "https://tse1.mm.bing.net/th?q=Karen+Fukuhara+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const markhamill              = "https://tse1.mm.bing.net/th?q=Mark+Hamill+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 
-// Princess Mononoke
+// Princess v 
 const billycrudup             = "https://tse1.mm.bing.net/th?q=Billy+Crudup+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const clairedanes             = "https://tse1.mm.bing.net/th?q=Claire+Danes+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const minniedriver            = "https://tse1.mm.bing.net/th?q=Minnie+Driver+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
@@ -907,7 +907,23 @@ const indenavarrette          = "https://tse1.mm.bing.net/th?q=Inde+Navarrette+a
 const coopertomlinson         = "https://tse1.mm.bing.net/th?q=Cooper+Tomlinson+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const meganlawless            = "https://tse1.mm.bing.net/th?q=Megan+Lawless+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 
+// Whiplash
+const melissabenoist          = "https://tse1.mm.bing.net/th?q=Melissa+Benoist+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const paulreiser              = "https://tse1.mm.bing.net/th?q=Paul+Reiser+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const austinstowell           = "https://tse1.mm.bing.net/th?q=Austin+Stowell+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 
+// Suzume
+
+const erifukatsu              = "https://tse1.mm.bing.net/th?q=Eri+Fukatsu+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const shotasometani           = "https://tse1.mm.bing.net/th?q=Shota+Sometani+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const sairiito                = "https://tse1.mm.bing.net/th?q=Sairi+Ito+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const kotonehanase            = "https://tse1.mm.bing.net/th?q=Kotone+Hanase+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Fury
+const shialabeouf             = "https://tse1.mm.bing.net/th?q=Shia+LaBeouf+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const michaelpena             = "https://tse1.mm.bing.net/th?q=Michael+Pena+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const jasonisaacs             = "https://tse1.mm.bing.net/th?q=Jason+Isaacs+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const scotteastwood           = "https://tse1.mm.bing.net/th?q=Scott+Eastwood+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const movies = {
 
 
@@ -6726,7 +6742,7 @@ jailer2: {
     "Retired jailer Muthuvel Pandian, known as Tiger, returns as a new threat rises and his past comes back to find him. The makers have kept the story under wraps.",
   language: "Dual Audio (Tamil, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1pCWpeJfU5b1A-2DeZHOEnhV62oQdt3xZ/view?usp=sharing",
 
   accent: "224, 130, 40",
   theme: {
@@ -6841,4 +6857,122 @@ trailers: [
     { name: "Megan Lawless",    role: "Sarah", img: meganlawless }
   ]
 },
+whiplash: {
+  title: "Whiplash",
+  director: "Damien Chazelle",
+  genres: ["Drama", "Music"],
+  pills: ["2014", "1H 47M", "IMDb 8.5", "R"],
+  overview:
+    "A promising young drummer enrolls at a cut-throat music conservatory, where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1vRGhrLBtEMi7HxnVTe7oyjBbMKapcBIz/view?usp=sharing",
+
+  accent: "216, 144, 36",
+  theme: {
+    buttonColor: "#d08a22",
+    buttonGlow: "rgba(224, 152, 40, 0.5)",
+    lineColor: "#e0a840",
+    backHover: "#d08a22",
+    castHover: "#e0a840",
+    cardHover: "#e0a840",
+    playHover: "#eaa534",
+    cautionColor: "#ecc880",
+    textColor: "#f4ece0",
+    castRoleColor: "#a69880",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(6, 4, 2, 0.96) 0%, rgba(6, 4, 2, 0.5) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(216, 144, 36, 0.22) 0%, transparent 55%), linear-gradient(160deg, #2e2010 0%, #070503 100%)",
+    castBackground: "linear-gradient(180deg, #070503 0%, #1c1409 100%)",
+    reviewsBackground: "linear-gradient(180deg, #1c1409 0%, #382612 60%, #4a2c10 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795110676/41345-1920x1080-desktop-full-hd-whiplash-wallpaper-image_kvyglz.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795110675/WHIPLASH_2014_poster_design_by_Astralynart_bb0pvd.jpg",
+
+
+trailers: [
+  {
+    id: "Df1xkYYbYrY",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/Df1xkYYbYrY/hqdefault.jpg"
+  },
+  {
+    id: "Q7kZy3T6vRM",
+    alt: "10th Anniversary Official Trailer",
+    thumb: "https://img.youtube.com/vi/Q7kZy3T6vRM/hqdefault.jpg"
+  },
+  {
+    id: "xCRgTSak8o4",
+    alt: "Demolish You - Movie Clip",
+    thumb: "https://img.youtube.com/vi/xCRgTSak8o4/hqdefault.jpg"
+  }
+],
+  cast: [
+    { name: "Miles Teller",    role: "Andrew Neiman",    img: milesteller },
+    { name: "J.K. Simmons",    role: "Terence Fletcher", img: jksimmons },
+    { name: "Melissa Benoist", role: "Nicole",           img: melissabenoist },
+    { name: "Paul Reiser",     role: "Jim Neiman",       img: paulreiser },
+    { name: "Austin Stowell",  role: "Ryan Connolly",    img: austinstowell }
+  ]
+},
+
+fury: {
+  title: "Fury",
+  director: "David Ayer",
+  genres: ["Action", "Drama", "War"],
+  pills: ["2014", "2H 14M", "IMDb 7.6", "R"],
+  overview:
+    "April 1945. As the Allies make their final push in the European Theater, a battle-hardened U.S. Army sergeant commands a Sherman tank and its five-man crew on a deadly mission behind enemy lines.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1kMCnPY-637ZvrKhO73r2L24y1Gra7HP_/view?usp=sharing",
+
+  accent: "110, 134, 156",
+  theme: {
+    buttonColor: "#5a7a96",
+    buttonGlow: "rgba(100, 132, 160, 0.5)",
+    lineColor: "#8c9a5c",
+    backHover: "#5a7a96",
+    castHover: "#8c9a5c",
+    cardHover: "#8c9a5c",
+    playHover: "#6c8fae",
+    cautionColor: "#b4c08a",
+    textColor: "#e8ecee",
+    castRoleColor: "#8a9aa6",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(6, 10, 14, 0.95) 0%, rgba(6, 10, 14, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(140, 154, 92, 0.2) 0%, transparent 55%), linear-gradient(160deg, #26343e 0%, #070a0d 100%)",
+    castBackground: "linear-gradient(180deg, #070a0d 0%, #141c24 100%)",
+    reviewsBackground: "linear-gradient(180deg, #141c24 0%, #26343e 55%, #3a4224 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795110683/Fury_2014_in_2022___Motion_picture_Soundtrack_iij4sz.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795110685/wp4040621-fury-movie-wallpapers_krfojf.jpg",
+
+
+trailers: [
+  {
+    id: "q94n3eWOWXM",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/q94n3eWOWXM/hqdefault.jpg"
+  },
+  {
+    id: "fIQp-ageqfE",
+    alt: "Tiger Tank Battle - Movie Clip",
+    thumb: "https://img.youtube.com/vi/fIQp-ageqfE/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Brad Pitt",       role: "Don 'Wardaddy' Collier",  img: bradpitt },
+    { name: "Shia LaBeouf",    role: "Boyd 'Bible' Swan",       img: shialabeouf },
+    { name: "Logan Lerman",    role: "Norman Ellison",          img: loganlerman },
+    { name: "Michael Peña",    role: "Trini 'Gordo' Garcia",    img: michaelpena },
+    { name: "Jon Bernthal",    role: "Grady 'Coon-Ass' Travis", img: jonbernthal },
+    { name: "Jason Isaacs",    role: "Captain Waggoner",        img: jasonisaacs },
+    { name: "Scott Eastwood",  role: "Sgt. Miles",              img: scotteastwood }
+  ]
+}
 };
