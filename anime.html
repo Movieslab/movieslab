@@ -153,7 +153,8 @@ a { color: inherit; text-decoration: none; }
         <div class="grid" id="grid"></div>
     </main>
 
-    <script src="anime.js"></script>
+    <!-- all data lives in movies.js; anime = every movie whose genres include "Anime" -->
+    <script src="movies.js"></script>
     <script>
         function el(tag, className, text) {
             var e = document.createElement(tag);
@@ -168,16 +169,28 @@ a { color: inherit; text-decoration: none; }
         var resetBtn = document.getElementById("resetBtn");
         var countEl = document.getElementById("count");
 
+        // Pick the anime out of movies.js: any movie with "Anime" in its genres list
+        var anime;
+        try {
+            if (typeof movies !== "undefined" && movies && !(movies instanceof Element)) {
+                anime = {};
+                Object.keys(movies).forEach(function (k) {
+                    var g = (movies[k].genres || []).map(function (x) { return String(x).toLowerCase(); });
+                    if (g.indexOf("anime") !== -1) anime[k] = movies[k];
+                });
+            }
+        } catch (e) { anime = undefined; }
+
         // Did movies.js load? (an error inside it leaves "movies" unusable)
         var moviesOK = false;
         try { moviesOK = typeof anime !== "undefined" && !!anime && !(anime instanceof Element); } catch (e) { }
 
 
         if (!moviesOK) {
-            grid.appendChild(el("div", "empty", "The anime list could not be loaded. Keep anime.js in the same folder as this page, then press F12 and read the red error in the Console."));
+            grid.appendChild(el("div", "empty", "The anime list could not be loaded. Keep movies.js in the same folder as this page, then press F12 and read the red error in the Console."));
         } else if (!Object.keys(anime).length) {
             countEl.textContent = "COMING SOON";
-            grid.appendChild(el("div", "empty", "No anime movies yet. They will appear here soon!"));
+            grid.appendChild(el("div", "empty", "No anime movies yet. Add \"Anime\" to the genres of a movie in movies.js and it will appear here."));
         } else {
             // newest first
             var keys = Object.keys(anime).sort(function (a, b) {
@@ -189,7 +202,7 @@ a { color: inherit; text-decoration: none; }
             // build the filter lists from the real movies
             var genreCount = {}, years = {};
             keys.forEach(function (k) {
-                (anime[k].genres || []).forEach(function (g) { genreCount[g] = (genreCount[g] || 0) + 1; });
+                (anime[k].genres || []).forEach(function (g) { if (String(g).toLowerCase() === "anime") return; genreCount[g] = (genreCount[g] || 0) + 1; });
                 if (yearOf(k)) years[yearOf(k)] = true;
             });
             function opt(sel, value, label) {
@@ -201,7 +214,7 @@ a { color: inherit; text-decoration: none; }
             opt(yearSel, "", "All years");
             Object.keys(years).sort(function (a, b) { return b - a; }).forEach(function (y) { opt(yearSel, y, y); });
 
-            // start from the address:  explore.html?genre=Action&year=2023
+            // start from the address:  anime.html?genre=Fantasy&year=2023
             var q = new URLSearchParams(location.search);
             if (q.get("genre") && genreCount[q.get("genre")]) genreSel.value = q.get("genre");
             if (q.get("year") && years[q.get("year")]) yearSel.value = q.get("year");
