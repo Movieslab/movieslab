@@ -874,7 +874,31 @@ const tsubasahonda            = "https://tse1.mm.bing.net/th?q=Tsubasa+Honda+act
 const chiekobaisho            = "https://tse1.mm.bing.net/th?q=Chieko+Baisho+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const seihiraizumi            = "https://tse1.mm.bing.net/th?q=Sei+Hiraizumi+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 
+// The Change-Up
+const jasonbateman            = "https://tse1.mm.bing.net/th?q=Jason+Bateman+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const lesliemann              = "https://tse1.mm.bing.net/th?q=Leslie+Mann+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 
+const alanarkin               = "https://tse1.mm.bing.net/th?q=Alan+Arkin+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Ready or Not
+const samaraweaving           = "https://tse1.mm.bing.net/th?q=Samara+Weaving+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const adambrody               = "https://tse1.mm.bing.net/th?q=Adam+Brody+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const markobrien              = "https://tse1.mm.bing.net/th?q=Mark+OBrien+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const henryczerny              = "https://tse1.mm.bing.net/th?q=Henry+Czerny+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const andiemacdowell          = "https://tse1.mm.bing.net/th?q=Andie+MacDowell+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const nickyguadagni           = "https://tse1.mm.bing.net/th?q=Nicky+Guadagni+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const melaniescrofano          = "https://tse1.mm.bing.net/th?q=Melanie+Scrofano+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const elyselevesque           = "https://tse1.mm.bing.net/th?q=Elyse+Levesque+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Dead Poets Society
+
+const robertseanleonard       = "https://tse1.mm.bing.net/th?q=Robert+Sean+Leonard+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+const joshcharles             = "https://tse1.mm.bing.net/th?q=Josh+Charles+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const galehansen              = "https://tse1.mm.bing.net/th?q=Gale+Hansen+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const dylankussman            = "https://tse1.mm.bing.net/th?q=Dylan+Kussman+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const normanlloyd             = "https://tse1.mm.bing.net/th?q=Norman+Lloyd+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const kurtwoodsmith           = "https://tse1.mm.bing.net/th?q=Kurtwood+Smith+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const rumihiiragi = "https://tse1.mm.bing.net/th?q=Rumi+Hiiragi+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
 const miyuirino = "https://tse1.mm.bing.net/th?q=Miyu+Irino+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const nanokahara = "https://tse1.mm.bing.net/th?q=Nanoka+Hara+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
@@ -924,6 +948,43 @@ const shialabeouf             = "https://tse1.mm.bing.net/th?q=Shia+LaBeouf+acto
 const michaelpena             = "https://tse1.mm.bing.net/th?q=Michael+Pena+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const jasonisaacs             = "https://tse1.mm.bing.net/th?q=Jason+Isaacs+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
 const scotteastwood           = "https://tse1.mm.bing.net/th?q=Scott+Eastwood+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Alita: Battle Angel
+const rosasalazar             = "https://tse1.mm.bing.net/th?q=Rosa+Salazar+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const christophwaltz          = "https://tse1.mm.bing.net/th?q=Christoph+Waltz+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const mahershalaali           = "https://tse1.mm.bing.net/th?q=Mahershala+Ali+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const keeanjohnson            = "https://tse1.mm.bing.net/th?q=Keean+Johnson+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Moneyball
+const philipseymourhoffman    = "https://tse1.mm.bing.net/th?q=Philip+Seymour+Hoffman+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const kerrisdorsey            = "https://tse1.mm.bing.net/th?q=Kerris+Dorsey+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Nobody
+const bobodenkirk             = "https://tse1.mm.bing.net/th?q=Bob+Odenkirk+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const connienielsen           = "https://tse1.mm.bing.net/th?q=Connie+Nielsen+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const alekseiserebryakov      = "https://tse1.mm.bing.net/th?q=Alexey+Serebryakov+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const rza                     = "https://tse1.mm.bing.net/th?q=RZA+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const christopherlloyd        = "https://tse1.mm.bing.net/th?q=Christopher+Lloyd+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const gagemunroe              = "https://tse1.mm.bing.net/th?q=Gage+Munroe+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// The Greatest Showman
+const kealasettle             = "https://tse1.mm.bing.net/th?q=Keala+Settle+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const yahyaabdulmateen        = "https://tse1.mm.bing.net/th?q=Yahya+Abdul+Mateen+II+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const samhumphrey             = "https://tse1.mm.bing.net/th?q=Sam+Humphrey+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
+// Nobody 2
+const sharonstone             = "https://tse1.mm.bing.net/th?q=Sharon+Stone+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const johnortiz               = "https://tse1.mm.bing.net/th?q=John+Ortiz+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const colinhanks              = "https://tse1.mm.bing.net/th?q=Colin+Hanks+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const colinsalmon             = "https://tse1.mm.bing.net/th?q=Colin+Salmon+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+/* ---------- anime voice-actor photos ---------- */
+const saorihayami             = "https://tse1.mm.bing.net/th?q=Saori+Hayami+voice+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const kenshoono               = "https://tse1.mm.bing.net/th?q=Kensho+Ono+voice+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+const yuiishikawa             = "https://tse1.mm.bing.net/th?q=Yui+Ishikawa+voice+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const megumihan               = "https://tse1.mm.bing.net/th?q=Megumi+Han+voice+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const yukikaneko              = "https://tse1.mm.bing.net/th?q=Yuki+Kaneko+voice+actress+portrait&w=500&h=500&c=7&rs=1&p=0";
+const toshiyukitoyonaga       = "https://tse1.mm.bing.net/th?q=Toshiyuki+Toyonaga+voice+actor+portrait&w=500&h=500&c=7&rs=1&p=0";
+
 const movies = {
 
 
@@ -5726,7 +5787,7 @@ trailers: [
 yourname: {
   title: "Your Name",
   director: "Makoto Shinkai",
-  genres: ["Animation", "Drama", "Fantasy", "Romance"],
+  genres: ["Animation", "Drama", "Fantasy", "Romance", "Anime"],
   pills: ["2016", "1H 46M", "IMDb 8.4", "PG"],
   overview:
     "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart? A high school girl in a rural town and a boy in Tokyo mysteriously begin swapping bodies.",
@@ -6426,7 +6487,7 @@ underparis: {
 theboyandtheheron: {
   title: "The Boy and the Heron",
   director: "Hayao Miyazaki",
-  genres: ["Animation", "Adventure", "Fantasy"],
+  genres: ["Animation", "Adventure", "Fantasy", "Anime"],
   pills: ["2023", "2H 4M", "IMDb 7.5", "PG-13"],
   overview:
     "A young boy named Mahito, unhappy in his new town after his mother's death, is led by a talking grey heron into a mysterious tower, where he enters a magical world shared by the living and the dead.",
@@ -6479,7 +6540,7 @@ trailers: [
 princessmononoke: {
   title: "Princess Mononoke",
   director: "Hayao Miyazaki",
-  genres: ["Animation", "Adventure", "Fantasy"],
+  genres: ["Animation", "Adventure", "Fantasy", "Anime"],
   pills: ["1997", "2H 14M", "IMDb 8.3", "PG-13"],
   overview:
     "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
@@ -6531,7 +6592,7 @@ trailers: [
 childrenofthesea: {
   title: "Children of the Sea",
   director: "Ayumu Watanabe",
-  genres: ["Animation", "Adventure", "Drama", "Fantasy"],
+  genres: ["Animation", "Adventure", "Drama", "Fantasy", "Anime"],
   pills: ["2019", "1H 51M", "IMDb 7.6", "PG"],
   overview:
     "Ruka, a young girl whose life is about to change, meets two mysterious boys raised in the sea, and together they are drawn into a cosmic mystery that connects the ocean, the stars and the origin of life.",
@@ -6581,13 +6642,13 @@ trailers: [
 weatheringwithyou: {
   title: "Weathering with You",
   director: "Makoto Shinkai",
-  genres: ["Animation", "Drama", "Fantasy", "Romance"],
+  genres: ["Animation", "Drama", "Fantasy", "Romance", "Anime"],
   pills: ["2019", "1H 52M", "IMDb 7.5", "PG-13"],
   overview:
     "A high-school boy who has run away to Tokyo befriends a girl who appears to be able to manipulate the weather, and together they discover how far they will go to keep the sun shining.",
   language: "Dual Audio (English, japanese)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1VrvDZfmFmv-NzKKMaUMhWLNze3N-A1w7/view?usp=sharing",
 
   accent: "60, 150, 240",
   theme: {
@@ -6637,7 +6698,7 @@ trailers: [
 thegardenofwords: {
   title: "The Garden of Words",
   director: "Makoto Shinkai",
-  genres: ["Animation", "Drama", "Romance"],
+  genres: ["Animation", "Drama", "Romance", "Anime"],
   pills: ["2013", "46M", "IMDb 7.5", "PG"],
   overview:
     "Takao, a 15-year-old aspiring shoemaker, skips school on rainy mornings to sketch designs in a Tokyo garden, where he meets Yukari, a mysterious older woman. As the rainy season passes, their unlikely bond grows deeper.",
@@ -6686,7 +6747,7 @@ trailers: [
 awhiskeraway: {
   title: "A Whisker Away",
   director: "Junichi Sato, Tomotaka Shibayama",
-  genres: ["Animation", "Drama", "Fantasy", "Romance"],
+  genres: ["Animation", "Drama", "Fantasy", "Romance", "Anime"],
   pills: ["2020", "1H 44M", "IMDb 7.0", "PG"],
   overview:
     "A peculiar girl, who is in love with a boy in her class, gets a magic mask that lets her turn into a cat. As a cat, she can stay close to him, but the longer she wears the mask, the harder it becomes to return to being human.",
@@ -6807,7 +6868,7 @@ obsession: {
     "Bear, a socially awkward young man, uses a magical \"One Wish Willow\" to make his childhood friend Nikki fall for him. But his reality begins to unravel as Nikki's behavior turns increasingly frightening.",
   language: "Dual Audio (English, Hindi)",
   caution: "Dual Audio is available when you download the movie",
-  watchLink: "",
+  watchLink: "https://drive.google.com/file/d/1tohkM5Yj9YVVRr_K95KB8arMKyP42f9k/view?usp=sharing",
 
   accent: "214, 60, 70",
   theme: {
@@ -6974,5 +7035,611 @@ trailers: [
     { name: "Jason Isaacs",    role: "Captain Waggoner",        img: jasonisaacs },
     { name: "Scott Eastwood",  role: "Sgt. Miles",              img: scotteastwood }
   ]
-}
+},
+thechangeup: {
+  title: "The Change-Up",
+  director: "David Dobkin",
+  genres: ["Comedy", "Fantasy"],
+  pills: ["2011", "1H 52M", "IMDb 6.3", "R"],
+  overview:
+    "Dave is a hard-working lawyer and family man, and Mitch is a freewheeling slacker. After a drunken night, the old friends wake up in each other's bodies and have to live each other's lives.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1UVDoYvFHI_wzHqBQos-azlMaai4xPQP8/view?usp=sharing",
+
+  accent: "240, 130, 30",
+  theme: {
+    buttonColor: "#f07a1a",
+    buttonGlow: "rgba(250, 138, 40, 0.55)",
+    lineColor: "#2aaadc",
+    backHover: "#f07a1a",
+    castHover: "#2aaadc",
+    cardHover: "#2aaadc",
+    playHover: "#ff9030",
+    cautionColor: "#ffc080",
+    textColor: "#f2f6fa",
+    castRoleColor: "#94a8bc",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(2, 18, 34, 0.93) 0%, rgba(2, 18, 34, 0.4) 38%, transparent 62%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 122, 26, 0.22) 0%, transparent 55%), linear-gradient(160deg, #0e4a74 0%, #03101c 100%)",
+    castBackground: "linear-gradient(180deg, #03101c 0%, #0a2a46 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0a2a46 0%, #0e4468 55%, #6a3410 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795177739/wp13600093-the-change-up-wallpapers_onrwpy.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175830/787285578602464584_neyw1t.jpg",
+
+trailers: [
+  {
+    id: "n2YLsOl3h8c",
+    alt: "Official UK Trailer",
+    thumb: "https://img.youtube.com/vi/n2YLsOl3h8c/hqdefault.jpg"
+  },
+  {
+    id: "43Qc70ZeMFw",
+    alt: "Official Movie Trailer",
+    thumb: "https://img.youtube.com/vi/43Qc70ZeMFw/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Ryan Reynolds", role: "Mitch Planko",      img: ryanreynolds },
+    { name: "Jason Bateman", role: "Dave Lockwood",     img: jasonbateman },
+    { name: "Leslie Mann",   role: "Jamie Lockwood",    img: lesliemann },
+    { name: "Olivia Wilde",  role: "Sabrina McArdle",   img: oliviawilde },
+    { name: "Alan Arkin",    role: "Mitch Planko Sr.",  img: alanarkin }
+  ]
+},
+
+readyornot: {
+  title: "Ready or Not",
+  director: "Matt Bettinelli-Olpin, Tyler Gillett",
+  genres: ["Comedy", "Horror", "Thriller"],
+  pills: ["2019", "1H 35M", "IMDb 6.7", "R"],
+  overview:
+    "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying tradition, and the game they play is a fight for her life.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/14eqESxqO3RoxTlbkn3TTvvku2h_dlUdr/view?usp=sharing",
+
+  accent: "190, 130, 50",
+  theme: {
+    buttonColor: "#b02a24",
+    buttonGlow: "rgba(200, 44, 36, 0.55)",
+    lineColor: "#d0a050",
+    backHover: "#b02a24",
+    castHover: "#d0a050",
+    cardHover: "#d0a050",
+    playHover: "#d03a30",
+    cautionColor: "#e8cc90",
+    textColor: "#f4ece0",
+    castRoleColor: "#a69478",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(8, 4, 2, 0.96) 0%, rgba(8, 4, 2, 0.5) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(176, 42, 36, 0.22) 0%, transparent 55%), linear-gradient(160deg, #3a2410 0%, #080503 100%)",
+    castBackground: "linear-gradient(180deg, #080503 0%, #1e1409 100%)",
+    reviewsBackground: "linear-gradient(180deg, #1e1409 0%, #3c2612 55%, #4a1612 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795177593/1329200_v7wqvf.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795177589/jack_in_the_box_Shayweasel_iusy7z.jpg",
+
+  
+trailers: [
+  {
+    id: "ZtYTwUxhAoI",
+    alt: "Official Red Band Trailer",
+    thumb: "https://img.youtube.com/vi/ZtYTwUxhAoI/hqdefault.jpg"
+  },
+  {
+    id: "SeNX8VWoVL8",
+    alt: "Official India Trailer",
+    thumb: "https://img.youtube.com/vi/SeNX8VWoVL8/hqdefault.jpg"
+  },
+  {
+    id: "aeiXE2KP9Q0",
+    alt: "Official Trailer 2",
+    thumb: "https://img.youtube.com/vi/aeiXE2KP9Q0/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Samara Weaving",   role: "Grace Le Domas",    img: samaraweaving },
+    { name: "Adam Brody",       role: "Daniel Le Domas",   img: adambrody },
+    { name: "Mark O'Brien",     role: "Alex Le Domas",     img: markobrien },
+    { name: "Henry Czerny",     role: "Tony Le Domas",     img: henryczerny },
+    { name: "Andie MacDowell",  role: "Becky Le Domas",    img: andiemacdowell },
+    { name: "Elyse Levesque",   role: "Charity Le Domas",  img: elyselevesque },
+    { name: "Melanie Scrofano", role: "Emilie Le Domas",   img: melaniescrofano },
+    { name: "Nicky Guadagni",   role: "Aunt Helene",       img: nickyguadagni }
+  ]
+},
+
+deadpoetssociety: {
+  title: "Dead Poets Society",
+  director: "Peter Weir",
+  genres: ["Comedy", "Drama"],
+  pills: ["1989", "2H 8M", "IMDb 8.1", "PG"],
+  overview:
+    "Maverick teacher John Keating returns in 1959 to his prestigious alma mater, a strict all-boys prep school, and inspires his students through his unconventional methods to seize the day and think for themselves.",
+  language: " (English)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1pbiV_PFUjLjNRqQ8Sb4FlG-t3NYGOl4f/view?usp=sharing",
+
+  accent: "230, 90, 30",
+  theme: {
+    buttonColor: "#d8421e",
+    buttonGlow: "rgba(236, 80, 34, 0.55)",
+    lineColor: "#f0b040",
+    backHover: "#d8421e",
+    castHover: "#f0b040",
+    cardHover: "#f0b040",
+    playHover: "#f05a30",
+    cautionColor: "#f6d088",
+    textColor: "#f8eee2",
+    castRoleColor: "#b09a84",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(14, 4, 2, 0.95) 0%, rgba(14, 4, 2, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 176, 64, 0.2) 0%, transparent 55%), linear-gradient(160deg, #4a1a10 0%, #0e0504 100%)",
+    castBackground: "linear-gradient(180deg, #0e0504 0%, #2a0f0a 100%)",
+    reviewsBackground: "linear-gradient(180deg, #2a0f0a 0%, #521c10 55%, #70360e 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794918214/wp3721845-dead-poets-society-wallpapers_ipwub2.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1794918210/dead_poets_society_lhv4s5.jpg",
+
+
+trailers: [
+  {
+    id: "ye4KFyWu2do",
+    alt: "Official Trailer 1",
+    thumb: "https://img.youtube.com/vi/ye4KFyWu2do/hqdefault.jpg"
+  },
+  {
+    id: "vgSOnCfY4Ys",
+    alt: "Original 1989 Trailer",
+    thumb: "https://img.youtube.com/vi/vgSOnCfY4Ys/hqdefault.jpg"
+  },
+  {
+    id: "eEYIhuIK8S0",
+    alt: "Dare to Strike Out and Find New Ground - Movie Clip",
+    thumb: "https://img.youtube.com/vi/eEYIhuIK8S0/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Robin Williams",      role: "John Keating",      img: robinwilliams },
+    { name: "Robert Sean Leonard", role: "Neil Perry",        img: robertseanleonard },
+    { name: "Ethan Hawke",         role: "Todd Anderson",     img: ethanhawke },
+    { name: "Josh Charles",        role: "Knox Overstreet",   img: joshcharles },
+    { name: "Gale Hansen",         role: "Charlie Dalton",    img: galehansen },
+    { name: "Dylan Kussman",       role: "Richard Cameron",   img: dylankussman },
+    { name: "Norman Lloyd",        role: "Mr. Nolan",         img: normanlloyd },
+    { name: "Kurtwood Smith",      role: "Mr. Perry",         img: kurtwoodsmith }
+  ]
+},
+
+alitabattleangel: {
+  title: "Alita: Battle Angel",
+  director: "Robert Rodriguez",
+  genres: ["Action", "Adventure", "Sci-Fi"],
+  pills: ["2019", "2H 2M", "IMDb 7.3", "PG-13"],
+  overview:
+    "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/16AyxhP4l-ypbZqrpUgWtPyvCLLRF2ch3/view?usp=sharing",
+
+  accent: "216, 70, 50",
+  theme: {
+    buttonColor: "#d43a2a",
+    buttonGlow: "rgba(226, 64, 46, 0.55)",
+    lineColor: "#38b0d8",
+    backHover: "#d43a2a",
+    castHover: "#38b0d8",
+    cardHover: "#38b0d8",
+    playHover: "#ee4a38",
+    cautionColor: "#f4b080",
+    textColor: "#eef2f6",
+    castRoleColor: "#8fa2b4",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(2, 4, 10, 0.95) 0%, rgba(2, 4, 10, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 120, 60, 0.22) 0%, transparent 55%), linear-gradient(160deg, #0e2a4a 0%, #03060c 100%)",
+    castBackground: "linear-gradient(180deg, #03060c 0%, #0a1a30 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0a1a30 0%, #123a5c 55%, #5a2a1c 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175825/309995-3840x2160-desktop-4k-alita-battle-angel-wallpaper-photo_qedcqa.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175811/Alita_Battle_Angel_ovze2m.jpg",
+
+trailers: [
+  {
+    id: "w7pYhpJaJW8",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/w7pYhpJaJW8/hqdefault.jpg"
+  },
+  {
+    id: "9xzO9b8jaAw",
+    alt: "Official Asia Trailer",
+    thumb: "https://img.youtube.com/vi/9xzO9b8jaAw/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Rosa Salazar",      role: "Alita (voice / motion capture)", img: rosasalazar },
+    { name: "Christoph Waltz",   role: "Dr. Dyson Ido",                  img: christophwaltz },
+    { name: "Jennifer Connelly", role: "Dr. Chiren",                     img: jenniferconnelly },
+    { name: "Mahershala Ali",    role: "Vector",                         img: mahershalaali },
+    { name: "Ed Skrein",         role: "Zapan",                          img: edskrein },
+    { name: "Jackie Earle Haley", role: "Grewishka (voice)",             img: jackieearlehaley },
+    { name: "Keean Johnson",     role: "Hugo",                           img: keeanjohnson },
+    { name: "Eiza González",     role: "Nyssiana",                       img: eizagonzalez }
+  ]
+},
+
+moneyball: {
+  title: "Moneyball",
+  director: "Bennett Miller",
+  genres: ["Biography", "Drama", "Sport"],
+  pills: ["2011", "2H 13M", "IMDb 7.6", "PG-13"],
+  overview:
+    "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1DyugZbhCVEnRDI8Lhh7NTYpH8TqwaLg4/view?usp=sharing",
+
+  accent: "100, 170, 60",
+  theme: {
+    buttonColor: "#4e9c2a",
+    buttonGlow: "rgba(100, 180, 56, 0.5)",
+    lineColor: "#8cc43c",
+    backHover: "#4e9c2a",
+    castHover: "#4a6eaa",
+    cardHover: "#4a6eaa",
+    playHover: "#62b838",
+    cautionColor: "#bcdc84",
+    textColor: "#eef4ea",
+    castRoleColor: "#8fa68a",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(4, 12, 6, 0.95) 0%, rgba(4, 12, 6, 0.45) 38%, transparent 62%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(74, 110, 170, 0.2) 0%, transparent 55%), linear-gradient(160deg, #163e1c 0%, #040a05 100%)",
+    castBackground: "linear-gradient(180deg, #040a05 0%, #0e2412 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0e2412 0%, #1a4a22 55%, #1c2c4a 100%)"
+  },
+
+  hero:"https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175828/333921-1920x1080-desktop-full-hd-moneyball-wallpaper-photo_slqi5x.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795176682/807551776977986437_qy4eav.jpg",
+
+
+trailers: [
+  {
+    id: "D1R-LwHbld4",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/D1R-LwHbld4/hqdefault.jpg"
+  },
+  {
+    id: "R8RXPRfhmA8",
+    alt: "Sony Pictures India Official Trailer",
+    thumb: "https://img.youtube.com/vi/R8RXPRfhmA8/hqdefault.jpg"
+  },
+  {
+    id: "j9PAAqvm6mI",
+    alt: "Be a Leader - Movie Clip",
+    thumb: "https://img.youtube.com/vi/j9PAAqvm6mI/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Brad Pitt",              role: "Billy Beane",       img: bradpitt },
+    { name: "Jonah Hill",             role: "Peter Brand",       img: jonahhill },
+    { name: "Philip Seymour Hoffman", role: "Art Howe",          img: philipseymourhoffman },
+    { name: "Robin Wright",           role: "Sharon",            img: robinwright },
+    { name: "Chris Pratt",            role: "Scott Hatteberg",   img: chrispratt },
+    { name: "Kerris Dorsey",          role: "Casey Beane",       img: kerrisdorsey }
+  ]
+},
+
+nobody: {
+  title: "Nobody",
+  director: "Ilya Naishuller",
+  genres: ["Action", "Crime", "Thriller"],
+  pills: ["2021", "1H 32M", "IMDb 7.4", "R"],
+  overview:
+    "A bystander who intervenes to help a woman being harassed by a group of men becomes the target of a vengeful drug lord, and an ordinary family man's violent past comes back to life.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1QnZ2sxHhwLjKJAIELssw2RoT9vLZSWtA/view?usp=sharing",
+
+  accent: "240, 200, 30",
+  theme: {
+    buttonColor: "#f0c81e",
+    buttonGlow: "rgba(246, 208, 40, 0.5)",
+    lineColor: "#4a78b0",
+    backHover: "#f0c81e",
+    castHover: "#4a78b0",
+    cardHover: "#4a78b0",
+    playHover: "#f8d830",
+    cautionColor: "#f6e08a",
+    textColor: "#f0f2f4",
+    castRoleColor: "#8c98a8",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(2, 4, 8, 0.96) 0%, rgba(2, 4, 8, 0.5) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 200, 30, 0.16) 0%, transparent 55%), linear-gradient(160deg, #14243a 0%, #030508 100%)",
+    castBackground: "linear-gradient(180deg, #030508 0%, #0c1626 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0c1626 0%, #1a2e4a 60%, #3a3210 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175825/Brutal_Blue-Hued_Close-Up_Fight_acmvar.png",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175814/528328600047669714_v3wkpi.jpg",
+
+
+trailers: [
+  {
+    id: "wZti8QKBWPo",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/wZti8QKBWPo/hqdefault.jpg"
+  },
+  {
+    id: "yNncHPl1UXg",
+    alt: "Red Band Trailer",
+    thumb: "https://img.youtube.com/vi/yNncHPl1UXg/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Bob Odenkirk",        role: "Hutch Mansell",    img: bobodenkirk },
+    { name: "Connie Nielsen",      role: "Becca Mansell",    img: connienielsen },
+    { name: "Aleksei Serebryakov", role: "Yulian Kuznetsov", img: alekseiserebryakov },
+    { name: "RZA",                 role: "Harry Mansell",    img: rza },
+    { name: "Christopher Lloyd",   role: "David Mansell",    img: christopherlloyd },
+    { name: "Michael Ironside",    role: "Eddie Williams",   img: michaelironside },
+    { name: "Gage Munroe",         role: "Blake Mansell",    img: gagemunroe }
+  ]
+},
+thegreatestshowman: {
+  title: "The Greatest Showman",
+  director: "Michael Gracey",
+  genres: ["Biography", "Drama", "Musical"],
+  pills: ["2017", "1H 45M", "IMDb 7.5", "PG"],
+  overview:
+    "Inspired by the imagination of P.T. Barnum, The Greatest Showman is an original musical that celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1HV02M82dwbuSx41yWMn6YLfXAaiW9mLG/view?usp=sharing",
+
+  accent: "150, 110, 230",
+  theme: {
+    buttonColor: "#d4a838",
+    buttonGlow: "rgba(224, 180, 56, 0.5)",
+    lineColor: "#9a7ae8",
+    backHover: "#d4a838",
+    castHover: "#9a7ae8",
+    cardHover: "#9a7ae8",
+    playHover: "#e8bc48",
+    cautionColor: "#f0d48a",
+    textColor: "#f0eefa",
+    castRoleColor: "#9a96b4",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(4, 4, 16, 0.95) 0%, rgba(4, 4, 16, 0.45) 40%, transparent 65%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(214, 70, 130, 0.2) 0%, transparent 55%), linear-gradient(160deg, #1e1a5a 0%, #05040e 100%)",
+    castBackground: "linear-gradient(180deg, #05040e 0%, #12103a 100%)",
+    reviewsBackground: "linear-gradient(180deg, #12103a 0%, #261c64 55%, #5a1e50 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175779/wp2335425-the-greatest-showman-wallpapers_hbbyxu.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175772/The_Greatest_Showman_c1gsjo.jpg",
+
+
+trailers: [
+  {
+    id: "EodWwczRIe4",
+    alt: "Official Trailer 1",
+    thumb: "https://img.youtube.com/vi/EodWwczRIe4/hqdefault.jpg"
+  },
+  {
+    id: "AXCTMGYUg9A",
+    alt: "Official Trailer 2",
+    thumb: "https://img.youtube.com/vi/AXCTMGYUg9A/hqdefault.jpg"
+  },
+  {
+    id: "J1Ge-G_jqNs",
+    alt: "Official India Trailer",
+    thumb: "https://img.youtube.com/vi/J1Ge-G_jqNs/hqdefault.jpg"
+  }
+],
+  cast: [
+    { name: "Hugh Jackman",     role: "P.T. Barnum",       img: hughjackman },
+    { name: "Zac Efron",        role: "Phillip Carlyle",   img: zacefron },
+    { name: "Michelle Williams", role: "Charity Barnum",   img: michellewilliams },
+    { name: "Rebecca Ferguson", role: "Jenny Lind",        img: rebeccaferguson },
+    { name: "Zendaya",          role: "Anne Wheeler",      img: zendaya },
+    { name: "Keala Settle",     role: "Lettie Lutz",       img: kealasettle },
+    { name: "Yahya Abdul-Mateen II", role: "W.D. Wheeler", img: yahyaabdulmateen },
+    { name: "Sam Humphrey",     role: "Tom Thumb",         img: samhumphrey }
+  ]
+},
+
+nobody2: {
+  title: "Nobody 2",
+  director: "Timo Tjahjanto",
+  genres: ["Action", "Comedy", "Crime", "Thriller"],
+  pills: ["2025", "1H 29M", "IMDb —", "R"],
+  overview:
+    "Hutch Mansell takes his family on a vacation to a quiet amusement park town, hoping to leave his violent past behind. But when a fight over a stolen plush toy escalates, he finds himself up against a corrupt sheriff and a ruthless crime boss.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1VV_hajt-GrI-NDTB39KCOsXgsQHsmjz1/view?usp=sharing",
+
+  accent: "30, 170, 210",
+  theme: {
+    buttonColor: "#f0701e",
+    buttonGlow: "rgba(248, 120, 36, 0.52)",
+    lineColor: "#1ab4d8",
+    backHover: "#f0701e",
+    castHover: "#1ab4d8",
+    cardHover: "#1ab4d8",
+    playHover: "#ff8430",
+    cautionColor: "#ffc490",
+    textColor: "#eef8fb",
+    castRoleColor: "#8cacb8",
+    buttonTextColor: "#111111",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(2, 18, 28, 0.94) 0%, rgba(2, 18, 28, 0.42) 38%, transparent 62%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 112, 30, 0.2) 0%, transparent 55%), linear-gradient(160deg, #0e4e68 0%, #03101a 100%)",
+    castBackground: "linear-gradient(180deg, #03101a 0%, #0a2c40 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0a2c40 0%, #0e506a 55%, #6a3412 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175807/Tropical_Poolside_Grenade_Toss_xzu9qj.png",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175817/Nobody_2_Trailer_Breakdown_Hidden_Details_wboazv.jpg",
+
+
+trailers: [
+  {
+    id: "-5X2pt95cIo",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/-5X2pt95cIo/hqdefault.jpg"
+  },
+  {
+    id: "UGOvEad8qd4",
+    alt: "Official Get Tickets Trailer",
+    thumb: "https://img.youtube.com/vi/UGOvEad8qd4/hqdefault.jpg"
+  },
+  {
+    id: "Ey1tRl6u-p8",
+    alt: "Hutch Burns It All Down - Movie Clip",
+    thumb: "https://img.youtube.com/vi/Ey1tRl6u-p8/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Bob Odenkirk",      role: "Hutch Mansell",    img: bobodenkirk },
+    { name: "Connie Nielsen",    role: "Becca Mansell",    img: connienielsen },
+    { name: "Sharon Stone",      role: "Lendina",          img: sharonstone },
+    { name: "John Ortiz",        role: "Wyatt Martin",     img: johnortiz },
+    { name: "Colin Hanks",       role: "Sheriff Abel",     img: colinhanks },
+    { name: "RZA",               role: "Harry Mansell",    img: rza },
+    { name: "Christopher Lloyd", role: "David Mansell",    img: christopherlloyd },
+    { name: "Colin Salmon",      role: "The Barber",       img: colinsalmon }
+  ]
+},
+asilentvoice: {
+  title: "A Silent Voice",
+  director: "Naoko Yamada",
+  genres: ["Animation", "Drama", "Romance", "Anime"],
+  pills: ["2016", "2H 10M", "IMDb 8.1", "PG"],
+  overview:
+    "A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1AlDjOqSIZzlbtDz5bWRLpqBzG5-1c0S1/view?usp=sharing",
+
+  accent: "70, 160, 210",
+  theme: {
+    buttonColor: "#2a9ad4",
+    buttonGlow: "rgba(54, 170, 224, 0.52)",
+    lineColor: "#f48aa0",
+    backHover: "#2a9ad4",
+    castHover: "#f48aa0",
+    cardHover: "#f48aa0",
+    playHover: "#42b0e8",
+    cautionColor: "#f8b8c4",
+    textColor: "#eef6fa",
+    castRoleColor: "#8fa8b8",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(4, 16, 26, 0.94) 0%, rgba(4, 16, 26, 0.4) 38%, transparent 62%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(244, 138, 160, 0.2) 0%, transparent 55%), linear-gradient(160deg, #124a68 0%, #040e16 100%)",
+    castBackground: "linear-gradient(180deg, #040e16 0%, #0c2c40 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0c2c40 0%, #14506a 55%, #4a2a3c 100%)"
+  },
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175825/a-silent-voice-3840x2160-16216_ugiq0g.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795175777/A_Silent_Voice_artr5s.jpg",
+
+
+trailers: [
+  {
+    id: "TQK9By9qQiw",
+    alt: "Official English Trailer",
+    thumb: "https://img.youtube.com/vi/TQK9By9qQiw/hqdefault.jpg"
+  },
+  {
+    id: "luP4sIz60mA",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/luP4sIz60mA/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Miyu Irino",         role: "Shoya Ishida (voice)",      img: miyuirino },
+    { name: "Saori Hayami",       role: "Shoko Nishimiya (voice)",   img: saorihayami },
+    { name: "Aoi Yuki",           role: "Naoka Ueno (voice)",        img: aoiyuki },
+    { name: "Kensho Ono",         role: "Tomohiro Nagatsuka (voice)", img: kenshoono },
+    { name: "Yui Ishikawa",       role: "Miki Kawai (voice)",        img: yuiishikawa },
+    { name: "Megumi Han",         role: "Miyoko Sahara (voice)",     img: megumihan },
+    { name: "Yuki Kaneko",        role: "Yuzuru Nishimiya (voice)",  img: yukikaneko },
+    { name: "Toshiyuki Toyonaga", role: "Satoshi Mashiba (voice)",   img: toshiyukitoyonaga }
+  ]
+},
+
+/* ---------- more anime (genres include "Anime") ---------- */
+suzume: {
+  title: "Suzume",
+  director: "Makoto Shinkai",
+  genres: ["Animation", "Adventure", "Drama", "Fantasy", "Anime"],
+  pills: ["2022", "2H 2M", "IMDb 7.6", "PG"],
+  overview:
+    "A 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over Japan.",
+  language: "Dual Audio (English, Hindi)",
+  caution: "Dual Audio is available when you download the movie",
+  watchLink: "https://drive.google.com/file/d/1J3N_--8Sj01Ep2J4ruVQ_wQ_WvLgno24/view?usp=sharing",
+
+  accent: "58, 160, 190",
+  theme: {
+    buttonColor: "#2a9cc0",
+    buttonGlow: "rgba(56, 172, 204, 0.52)",
+    lineColor: "#8ccf7a",
+    backHover: "#2a9cc0",
+    castHover: "#8ccf7a",
+    cardHover: "#8ccf7a",
+    playHover: "#40b4d8",
+    cautionColor: "#f0b8c8",
+    textColor: "#eef6f6",
+    castRoleColor: "#8ea8a8",
+    titleFont: "'Montserrat', 'Segoe UI', Arial, sans-serif",
+    heroOverlay: "linear-gradient(to top, rgba(4, 16, 18, 0.94) 0%, rgba(4, 16, 18, 0.42) 38%, transparent 62%)",
+    infoBackground: "radial-gradient(ellipse at 88% 110%, rgba(240, 184, 200, 0.18) 0%, transparent 55%), linear-gradient(160deg, #124a58 0%, #040e12 100%)",
+    castBackground: "linear-gradient(180deg, #040e12 0%, #0c2a32 100%)",
+    reviewsBackground: "linear-gradient(180deg, #0c2a32 0%, #14505a 55%, #2a5a38 100%)"
+  },
+
+  hero: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795110698/suzume-no-tojimari-5k-p5_ycfya4.jpg",
+  poster: "https://res.cloudinary.com/dw3etjjn0/image/upload/v1795110686/Suzume_2022_-_Makoto_Shinkai_ki9a7u.jpg",
+
+
+trailers: [
+  {
+    id: "IfKNOUUtyCA",
+    alt: "Official Trailer",
+    thumb: "https://img.youtube.com/vi/IfKNOUUtyCA/hqdefault.jpg"
+  },
+  {
+    id: "9UuwS0mTBNM",
+    alt: "Official Trailer 2",
+    thumb: "https://img.youtube.com/vi/9UuwS0mTBNM/hqdefault.jpg"
+  }
+],
+
+  cast: [
+    { name: "Nanoka Hara",     role: "Suzume Iwato (voice)",   img: nanokahara },
+    { name: "Hokuto Matsumura", role: "Souta Munakata (voice)", img: hokutomatsumura },
+    { name: "Eri Fukatsu",     role: "Tamaki Iwato (voice)",   img: erifukatsu },
+    { name: "Shota Sometani",  role: "Minoru Okabe (voice)",   img: shotasometani },
+    { name: "Sairi Ito",       role: "Rumi Ninomiya (voice)",  img: sairiito },
+    { name: "Kotone Hanase",   role: "Chika Amabe (voice)",    img: kotonehanase }
+  ]
+},
+
 };
