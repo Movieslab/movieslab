@@ -1295,15 +1295,13 @@
 
     <!-- movies.js must load BEFORE the script below -->
     <script src="movies.js"></script>
-    <script src="anime.js"></script>
 
     <script>
         // ===== 1. Find the movie from the URL: movie.html?id=oppenheimer =====
         const movieId = new URLSearchParams(location.search).get('id');
-        const fromMovies = (typeof movies !== 'undefined') ? movies[movieId] : null;
-        const fromAnime = (typeof anime !== 'undefined' && anime) ? anime[movieId] : null;
-        const movie = fromMovies || fromAnime;
-        const isAnime = !fromMovies && !!fromAnime;
+        const movie = (typeof movies !== 'undefined') ? movies[movieId] : null;
+        // a movie whose genres include "Anime" sends the Back button to anime.html
+        const isAnime = !!movie && (movie.genres || []).some(function (g) { return String(g).toLowerCase() === 'anime'; });
 
         const $ = (id) => document.getElementById(id);
 
